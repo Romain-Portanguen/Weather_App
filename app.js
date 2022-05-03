@@ -1,4 +1,4 @@
-let weather = {
+const weather = {
     "apiKey": "eb9b03aa710c233dec94911d50e8c060",
 
     fetchWeather: function (city) {
@@ -52,4 +52,4 @@ document.querySelector('.search-bar').addEventListener("keyup", function (event)
     }
 });
 
-weather.fetchWeather("Paris");
+weather.fetchWeather("Annecy");
