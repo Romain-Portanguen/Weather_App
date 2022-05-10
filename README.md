@@ -2,4 +2,4 @@
 Weather application in Js.
 
 
-## It's just a little try
+## You will see more content soon...
